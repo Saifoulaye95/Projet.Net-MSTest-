@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e37f2439-6e71-41c0-9abb-4df9152de4ac": {
+      "ProjectGuid": "e37f2439-6e71-41c0-9abb-4df9152de4ac",
+      "DisplayName": "LibrairieClasses_Test",
+      "ColorIndex": 0
+    },
+    "26e9ce0e-8fa2-4f7a-958a-681f5f4eafd0": {
+      "ProjectGuid": "26e9ce0e-8fa2-4f7a-958a-681f5f4eafd0",
+      "DisplayName": "UnitTestLibrairiClasses_Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
